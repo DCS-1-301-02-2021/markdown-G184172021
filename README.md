@@ -17,10 +17,12 @@
 自動車 | 有
 サッカー | 有
 ラグビー | 有
+
 ![Alt Text](https://www.takushoku-u.ac.jp/summary/images/397_hachioji_campus_img_15.JPG)
 
 # 設備
 * **授業で使用できるパソコンがたくさんある**
+
 ![Alt Text](https://feng.takushoku-u.ac.jp/albums/abm00014690.jpg)
 
 * **実験室での専門的な器具がある**
