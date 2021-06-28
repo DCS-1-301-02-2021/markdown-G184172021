@@ -26,6 +26,7 @@
 ![Alt Text](https://feng.takushoku-u.ac.jp/albums/abm00014690.jpg)
 
 * **実験室での専門的な器具がある**
+
 ![Alt Text](https://feng.takushoku-u.ac.jp/albums/abm00005824.jpg)
 
 * 参考文献https://www.takushoku-u.ac.jp/  
